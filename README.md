@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Snobbar Jaffer</h1>
 <h3 align="center">A passionate CS learner</h3>
 
-- ⚡ Fun fact *I think I m booring but people enjoy my company*
+- ⚡ *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
